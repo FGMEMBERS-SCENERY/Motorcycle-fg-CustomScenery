@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<groundnet>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="01-Start"
+             lat="S37 21.30488"
+             lon="E175 04.68999"
+             heading="185"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="02-Start"
+             lat="S37 21.30360"
+             lon="E175 04.68234"
+             heading="185"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="03-Start"
+             lat="S37 21.29780"
+             lon="E175 04.69139"
+             heading="185"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="04-Start"
+             lat="S37 21.29685"
+             lon="E175 04.68394"
+             heading="185"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="05-Start"
+             lat="S37 21.30018"
+             lon="E175 04.68632"
+             heading="185"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

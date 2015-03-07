@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<groundnet>
+  <frequencies>
+    <AWOS>12602</AWOS>
+    <AWOS>12602</AWOS>
+    <TOWER>12010</TOWER>
+    <APPROACH>11927</APPROACH>
+    <APPROACH>11927</APPROACH>
+  </frequencies>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="01-Start"
+             lat="N59 27.61841"
+             lon="E24 50.19656"
+             heading="100"
+             radius="8"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name=""
+             number="02-Start"
+             lat="N59 27.61481"
+             lon="E24 50.19547"
+             heading="100"
+             radius="7"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="gate"
+             name=""
+             number="03-Start"
+             lat="N59 27.61851"
+             lon="E24 50.17971"
+             heading="100"
+             radius="8"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name=""
+             number="04-Start"
+             lat="N59 27.62201"
+             lon="E24 50.16875"
+             heading="100"
+             radius="8"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name=""
+             number="05-Start"
+             lat="N59 27.61889"
+             lon="E24 50.16527"
+             heading="100"
+             radius="8"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

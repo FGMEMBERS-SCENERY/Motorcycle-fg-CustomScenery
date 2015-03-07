@@ -1,0 +1,268 @@
+# e110n20/e113n22/4807690.stg
+
+# Start Finish to Reservoir Bend T1
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_45_pit_in.xml 113.55741283 22.19827713 6.5395 126.3 0.8 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55678227 22.19755923 8.9832 144.9 1.9 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/stand.xml 113.56038030 22.19930357 6.6738 106.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/stand.xml 113.55942846 22.19903948 6.6662 106.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/stand.xml 113.55849345 22.19877897 6.5936 106.8 0.0 -0.0
+
+# T1 to Mandarin Bend T2
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55621618 22.19681125 12.1573 324.8 -1.7 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55564832 22.19606308 15.3173 324.7 -1.9 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55508332 22.19531989 18.6886 324.7 -1.9 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55451762 22.19457398 22.0144 324.8 -1.8 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55395365 22.19382849 25.2456 324.9 -1.8 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_half.xml 113.55353314 22.19327567 27.9291 324.3 -2.5 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_45_deg.xml 113.55277465 22.19237964 32.7756 307.8 -2.1 --0.2
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_half.xml 113.55325300 22.19291236 29.9028 324.3 -2.1 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55187720 22.19199215 37.6902 292.2 -3.4 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_half.xml 113.55122499 22.19174504 41.9988 292.0 -3.3 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_half.xml 113.55076963 22.19157411 44.0615 291.9 -1.3 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55008264 22.19132235 44.6640 291.3 0.0 -0.0
+
+# Mandarin Bend T2 to Lisboa T3
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.54916576 22.19098470 44.6676 291.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.54825045 22.19064183 44.6723 292.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.54733694 22.19029797 44.6741 292.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.54642534 22.18995507 44.6660 292.0 0.0 -0.01
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/stand.xml 113.54642842 22.18983761 47.2647 292.0 0.0 -0.0
+
+# T4, T5, T6 to San Francisco Hill
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_lisboa.xml 113.54551341 22.18961185 44.6694 112.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.54511277 22.19010561 44.5780 27.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_70_deg.xml 113.54477156 22.19102151 44.5711 320.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.54486580 22.19054792 44.5672 27.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.54505143 22.19138033 43.7788 324.0 -0.9 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.54563866 22.19209903 42.5179 317.3 -0.5 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.54617681 22.19256755 42.0291 312.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.54667317 22.19305366 42.2452 142.2 -0.2 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half_plus.xml 113.54720164 22.19380768 42.68 327.6 0.3 -0.0
+
+OBJECT_SHARED Models/RaceCourses/UGP/bush2.xml 113.54729949 22.19401906 47.5006 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_20_deg.ac 113.54783997 22.19447757 45.8905 303.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall.ac 113.54824204 22.19472165 45.8870 296.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.54719011 22.19394403 44.4259 112.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_20_deg.ac 113.54748223 22.19418346 45.8867 319.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.54854183 22.19489903 45.9105 156.9 0.0 -0.0
+
+# T7, T8, Maternity Bend T9
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_20_deg.xml 113.54763937 22.19433524 42.7978 312.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.54825356 22.19468772 43.5486 116.1 -1.7 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_70_deg.xml 113.54845251 22.19477881 44.2505 113.3 -0.6 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg_half.xml 113.54859094 22.19524607 44.7996 0.0 0.7 --0.7
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_cross2.xml 113.54863785 22.19569795 45.0879 351.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.54806527 22.19577030 42.0440 80.4 -3.5 -0.0
+
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall.ac 113.54854653 22.19525028 45.9095 3.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.54850144 22.19558182 45.9039 216.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.54877421 22.19572182 48.5066 54.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall.ac 113.54915149 22.19562596 48.4818 76.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall.ac 113.54961114 22.19551233 48.0182 73.5 1.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall.ac 113.55007336 22.19537802 46.6540 71.9 2.1 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall.ac 113.55053204 22.19524188 45.7145 72.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.55089040 22.19516435 45.7024 108.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.55102640 22.19521714 45.9293 136.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_wall_70_deg.ac 113.55112295 22.19531506 43.8948 160.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55108995 22.19528744 43.5811 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55098811 22.19520972 44.0767 0.0 0.0 -0.0
+
+# T9 to T10
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.54900836 22.19562466 45.2635 77.9 -0.3 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.54947196 22.19551845 45.4027 74.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.55016552 22.19531949 44.2530 72.0 1.3 -0.0
+
+# T10 to Teddy Ip T11
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_90_deg.xml 113.55100162 22.19516405 43.1321 72.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half_plus.xml 113.55125284 22.19567815 42.9290 169.6 0.4 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_60_deg.xml 113.55159129 22.19650920 42.0226 318.7 -0.6 -0.0
+#OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_60_deg.xml 113.55925092 22.19937100 -0.3199 0.0 0.0 -0.0
+
+# Teddy Ip T11 to T12
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_quater.xml 113.55208711 22.19682255 41.3383 287.3 -0.7 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_45_deg.xml 113.55259168 22.19713358 40.1736 131.1 1.1 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_20_deg.xml 113.55323053 22.19782914 37.9406 316.2 -1.4 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half_plus.xml 113.55382164 22.19823270 35.9471 121.8 1.8 -0.0
+
+# Solitude Esses T13, T14, T15 Faraway Hill T16
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_90_deg.xml 113.55447246 22.19873229 33.4416 124.0 1.5 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_70_deg.xml 113.55432151 22.19934805 32.5389 328.0 -1.4 --0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg_half.xml 113.55441132 22.19955868 31.6272 160.4 2.1 --0.2
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_45_deg.xml 113.55447433 22.20022337 28.7912 184.5 2.2 --0.8
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.55417623 22.20107093 24.3570 212.3 2.8 --1.5
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_60_deg.xml 113.55377050 22.20187224 18.5992 3.7 -3.9 --0.4
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half_plus.xml 113.55402185 22.20267969 15.3936 333.0 -0.2 -0.0
+
+# T17 to Moorish Hill
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_cross1.xml 113.55421751 22.20308963 15.3 339.0 0.0 -0.0
+
+# Moorish Hill to Donna Maria T18
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.55646540 22.20327762 15.3 124.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_20_deg.xml 113.55579601 22.20299236 15.3 102.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.55481648 22.20300031 15.3 84.9 0.0 -0.0
+
+# Donna Maria T19
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_donna_maria.xml 113.55680003 22.20365978 15.3 192.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.55510263 22.20383867 15.3 89.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.55608158 22.20388916 15.3 268.3 0.0 -0.0
+
+# Melco Hairpin T20
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_hairpin1.xml 113.55479482 22.20396399 6.7142 96.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_hairpin2.xml 113.55479482 22.20396399 6.7142 96.0 0.0 -0.0
+
+# Turn 21
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_t_21.xml 113.55573981 22.20424956 5.8 96.8 0.0 -0.0
+
+# Melco Hairpin to Black Sands Turn 22
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.55672176 22.20425438 5.8 94.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.55768708 22.20439749 5.8 99.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.55864886 22.20453443 5.8 97.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.55961207 22.20466901 5.8 99.4 0.0 -0.0
+
+# Fishermens to Reservoir Bend Turn 23
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_fishermens.xml 113.56062434 22.20462289 5.8 107.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_wall.xml 113.56191581 22.20077534 5.8 16.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_wall.xml 113.56163262 22.20164607 5.8 16.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_wall.xml 113.56134926 22.20252108 5.8 16.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_wall.xml 113.56106498 22.20339882 5.8 16.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_wall_half.xml 113.56077907 22.20427540 5.8 17.0 0.0 -0.0
+
+# R.Bend to Start and Finish Turn 24
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width_90_pit.xml 113.56202687 22.19983655 5.8 107.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_entrance.xml 113.56112826 22.19939529 5.8 106.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.56018415 22.19913137 5.8 286.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55924491 22.19886878 5.8 286.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_width.xml 113.55831743 22.19860929 5.8 286.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_90_deg.xml 113.56222083 22.19968982 5.8 107.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road.xml 113.56143826 22.19936326 5.8 287.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_pitlane_width_open.xml 113.56073733 22.19916555 5.8 106.8 0.0 -0.0
+
+# exit at pit lane
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg.xml 113.56007118 22.19886077 3.2939 295.2 2.9 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.55943563 22.19852006 0.2347 121.4 -1.1 -0.2
+
+# pit lane
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg_half.xml 113.56042572 22.19907400 5.7948 289.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg_half.xml 113.55997098 22.19892490 5.8087 104.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_deg_half.xml 113.55949832 22.19882600 5.8110 285.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_pitlane_road.xml 113.55880147 22.19862844 5.8447 286.7 -0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_half.xml 113.55810326 22.19843281 5.8846 286.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_road_15_pit_out.xml 113.55743170 22.19816493 6.5015 300.5 -0.7 -0.0
+
+# secure edge
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55765591 22.19832824 6.6044 113.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55762328 22.19831443 6.6597 116.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55759221 22.19829999 6.7342 116.0 3.1 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55755604 22.19828128 6.8640 120.0 0.8 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55750675 22.19825182 6.8506 122.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55721128 22.19798182 7.3522 124.0 3.5 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.54551426 22.18955170 44.9410 60.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.54543675 22.18956001 45.0475 48.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.54537209 22.18958021 45.0667 48.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.54531249 22.18960365 45.0614 48.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.54862668 22.19575890 45.4929 72.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.54867622 22.19577741 45.4559 72.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55422109 22.20317417 15.6865 96.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55427212 22.20316034 15.5716 80.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55427802 22.20324207 15.6504 84.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55398396 22.20392495 15.5702 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55397540 22.20398661 15.3323 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55390934 22.20396483 15.6417 0.0 0.0 -0.0
+
+# Start building
+OBJECT_SHARED Models/RaceCourses/MGP/startbuilding.xml 113.55962424 22.19891293 5.9252 106.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/NW200/edge.xml 113.55970713 22.19884251 6.0826 76.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/MGP/ampel.xml 113.55925339 22.19887365 6.0716 108.8 0.0 -0.0
+
+# parkdeck
+OBJECT_SHARED Models/RaceCourses/MGP/Roads/mgp_parkpos.xml 113.55875769 22.19842097 4.5700 286.1 0.0 -0.0
+
+# buildings around Lisboa Tower
+OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 113.54875592 22.19060983 15.7221 292.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 113.55091125 22.19144876 36.0848 292.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 113.54875500 22.19060964 32.4235 112.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/Cinema90x54.xml 113.54814339 22.19099632 40.4255 204.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 113.54881465 22.19127813 -35.7585 293.8 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_orange.xml 113.54632376 22.19037973 -16.1480 24.8 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tower-blue-white.ac 113.54557646 22.18933321 -74.4996 24.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tower-grey-black.ac 113.54530571 22.19029357 -38.9439 36.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tecalemit-h.xml 113.54543838 22.18969875 37.9105 23.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tecalemit-ba.ac 113.54512309 22.18968828 44.6968 28.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tecalemit-ba.ac 113.54512391 22.18968769 32.5715 28.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tower-striped-black-white.ac 113.54311440 22.18834026 -114.8675 0.0 0.0 -0.0
+
+# more buildings from Start to San Fransisco Hill
+OBJECT_SHARED Models/Commercial/small-glass-office-building.ac 113.55657245 22.19775352 1.6226 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/small-modern-office.ac 113.55636965 22.19730011 8.2975 328.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office-ba.ac 113.55586942 22.19580340 5.4745 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office-ba.ac 113.55582357 22.19581728 16.8637 144.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office-ba.ac 113.55554900 22.19635284 11.3444 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/hotel-generic-01.xml 113.55484060 22.19548053 18.4094 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac 113.55275981 22.19298248 -398.8672 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 113.55391901 22.19303366 -402.0454 50.7 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 113.55328182 22.19239402 26.2253 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 113.55240108 22.19171618 -428.4310 4.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_roze.xml 113.55190308 22.19237283 -64.7620 284.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office-ba.ac 113.55131517 22.19202553 33.7408 292.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 113.54419913 22.18967194 -22.6968 22.5 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_dark.xml 113.54406556 22.19137449 -23.1173 24.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/Retail75x50.xml 113.54520954 22.19072235 39.9913 27.4 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tecalemit-h-ba.ac 113.54452220 22.19166361 34.2725 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/tecalemit-h-ba.ac 113.54451733 22.19165957 21.2818 323.8 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac 113.54566894 22.19166765 -407.7118 324.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 113.54567747 22.19248354 26.3382 136.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 113.54568869 22.19250651 38.2621 136.4 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 113.54619058 22.19305358 35.8142 312.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 113.54638728 22.19240528 40.2840 312.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 113.54638091 22.19241189 30.9150 312.8 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac 113.54746215 22.19344676 -439.0596 344.0 0.0 -0.0
+
+# Trees before Donna Maria
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55370113 22.20161812 19.8466 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55382410 22.20144169 21.7499 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55412055 22.20104250 24.7356 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml 113.55393748 22.20127747 22.8897 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55423347 22.20087935 26.1966 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55446827 22.20000257 29.7555 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55436005 22.19961699 31.9896 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55421116 22.19928999 33.0255 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55244587 22.19707806 37.2790 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55277180 22.19734165 38.3447 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55354174 22.19821494 33.6394 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55262588 22.19717314 37.7750 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml 113.55229135 22.19707546 38.6437 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml 113.55293958 22.19758420 39.8401 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml 113.55325659 22.19798737 36.2934 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55413539 22.20303978 16.2371 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55430044 22.20314838 16.2687 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml 113.55420241 22.20316643 16.8234 0.0 0.0 -0.0
+
+# race marshalls
+OBJECT_SHARED Models/RaceCourses/marshallFinishLine.xml 113.55983761 22.19909253 6.1992 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.56087651 22.19924140 6.1501 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.56081236 22.19922659 6.1950 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55872978 22.19864886 7.5385 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55888745 22.19884564 7.4969 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55805593 22.19861312 7.3931 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55459184 22.19453904 23.1452 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55421755 22.19430642 24.8722 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55335944 22.19292251 31.0514 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54687651 22.19004474 46.3132 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54549982 22.18954460 45.0318 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54530038 22.18960565 44.9748 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54527295 22.18972925 45.2623 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54476432 22.19064249 45.9664 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54655430 22.19297985 43.4009 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54857492 22.19481123 45.7785 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.54866584 22.19578983 45.4453 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55082507 22.19508880 44.2461 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55432440 22.19847911 35.2360 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55426835 22.19933885 33.9303 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55368619 22.20170607 20.7191 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55426845 22.20317062 15.7002 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.55395940 22.20399204 15.4337 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.56022286 22.20478991 6.7404 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.56035005 22.20476779 6.8362 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 113.56216961 22.20001317 6.7927 0.0 0.0 -0.0
+
+

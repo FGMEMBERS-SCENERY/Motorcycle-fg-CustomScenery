@@ -1,0 +1,27 @@
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/course.xml 175.07830067 -37.35428043 25.9759 88.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/fence.xml 175.07830067 -37.35428043 25.9759 88.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/fence-guard.xml 175.07830067 -37.35428043 25.9759 88.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/pitlane.xml 175.07681179 -37.35684876 20.9283 154.6 -1.4 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/pitlane.xml 175.07731995 -37.35601150 23.0014 154.5 -1.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/building.xml 175.07750615 -37.35734090 33.2875 332.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/building.xml 175.07794384 -37.35663353 33.5482 335.0 -0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/building.xml 175.07835090 -37.35582285 33.5303 340.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/building.xml 175.07860843 -37.35510940 33.0338 348.0 0.0 -0.0
+
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/promo.ac 175.07660639 -37.35815014 15.0296 288.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/promo.ac 175.07569259 -37.35029059 13.8926 120.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/promo.ac 175.07717832 -37.34981530 15.0005 96.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/promo.ac 175.07730616 -37.34984304 14.7224 92.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/HamptonDowns/promo.ac 175.07578678 -37.35020133 14.2107 112.0 0.0 -0.0
+
+OBJECT_SHARED Models/RaceCourses/marshallFinishLine.xml 175.07742064 -37.35626056 24.6758 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07781670 -37.35146743 14.6277 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07810027 -37.35174061 14.3622 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07830835 -37.35471113 23.3532 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07800118 -37.35572001 25.3390 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07498728 -37.35722865 12.9228 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07400185 -37.35574867 10.1004 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07560260 -37.35315685 15.1432 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07676508 -37.35465377 21.6384 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07614182 -37.35111257 14.6901 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/marshall.xml 175.07677792 -37.35777797 19.1 0.0 0.0 -0.0

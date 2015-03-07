@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<groundnet>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="01-UGP-Start"
+             lat="N54 34.85818"
+             lon="W6 05.05719"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="1"
+             type="gate"
+             name=""
+             number="02-UGP-Start"
+             lat="N54 34.85675"
+             lon="W6 05.05906"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="2"
+             type="gate"
+             name=""
+             number="03-UGP-Start"
+             lat="N54 34.85489"
+             lon="W6 05.05912"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="3"
+             type="gate"
+             name=""
+             number="04-UGP-Start"
+             lat="N54 34.85288"
+             lon="W6 05.05822"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="4"
+             type="gate"
+             name=""
+             number="05-UGP-Start"
+             lat="N54 34.85058"
+             lon="W6 05.03649"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="5"
+             type="gate"
+             name=""
+             number="06-UGP-Start"
+             lat="N54 34.85247"
+             lon="W6 05.03643"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="6"
+             type="gate"
+             name=""
+             number="07-UGP-Start"
+             lat="N54 34.85426"
+             lon="W6 05.03680"
+             heading="284"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>
