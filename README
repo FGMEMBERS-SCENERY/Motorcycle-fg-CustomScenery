@@ -1,4 +1,22 @@
-Motorcycle's Scenery for the TT and Southern 100 (EGNS), North West 200 (EGAE), Ulster GP (EGAA), Tallin (EETN), Macau GP(VMMC), Hampton Downs (NZME) and the Wanganui - Cimetery Circuit (NZWU) for Flightgear
+Motorcycle's Scenery for the TT and Southern 100 (EGNS), North West 200 (EGAE), Ulster GP (EGAA), Tallin (EETN), Macau GP(VMMC), Hampton Downs (NZME), Wanganui - Cimetery Circuit (NZWU) and the Czech - Terlicko Race Courses for Flightgear
+
+Please note for installation:
+
+In this package you will find a folder named /NASAL
+
+this /Nasal folder is placed on LINUX systems
+in /users/you/.fgfs
+
+on WINDOWS systems in a folder called
+C:\Users\you\AppData\Roaming\flightgear.org\
+
+and on MAC 
+users/you/Library/Application Support/FlightGear
+
+
+IMPORTAND:: this is NOT the /Nasal folder
+in the fgdata or data folder
+
 
 by Marc Kraus
 Lake of Constance Hangar
