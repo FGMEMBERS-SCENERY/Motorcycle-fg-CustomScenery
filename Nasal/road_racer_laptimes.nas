@@ -90,6 +90,8 @@ var show_mp_times = func{
 		if ((mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/BMW-S-RR/Models/BMW-S-1000-RR.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Suzuki-GSX-R/Models/Suzuki-GSX-R1000.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Kawa-ZX10R/Models/Kawasaki-ZX10R.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZF-R1.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZF-M1.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/LCR/Models/LCR-F2.xml")
 			and mpOther[v].getNode("id").getValue() >= 0) {
 
