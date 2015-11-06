@@ -1,0 +1,5 @@
+# e010n40/e010n48/3121841.stg
+# Bopfingen Kart-Race-Course
+OBJECT_SHARED Models/RaceCourses/Bopfingen/course.xml 10.33221482 48.85108003 559.8 79.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Bopfingen/lines.xml 10.33221482 48.85108003 559.8 79.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Bopfingen/buildings.xml 10.33221482 48.85108003 559.8 79.7 0.0 -0.0
