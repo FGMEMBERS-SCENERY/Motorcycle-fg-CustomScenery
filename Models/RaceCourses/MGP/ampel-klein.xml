@@ -42,36 +42,28 @@
   <type>select</type>
 	 <object-name>red.001</object-name>
   <condition>
-    	<or> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>1</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>2</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>3</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>4</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>5</value>
-    		</equals> 
-    		<equals>
-    			<property>/controls/flag</property>
-    			<value>2</value>
-    		</equals>
-    		<equals>
-    			<property>/controls/flag</property>
-    			<value>5</value>
-    		</equals>
-    	</or>
+	<or>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>1</value>
+	  </equals>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>2</value>
+	  </equals>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>3</value>
+	  </equals>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>4</value>
+	  </equals>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>5</value>
+	  </equals>
+    </or>
   </condition>
 </animation>
 
@@ -79,32 +71,24 @@
   <type>select</type>
 	 <object-name>red.002</object-name>
   <condition>
-    	<or> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>2</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>3</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>4</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>5</value>
-    		</equals> 
-    		<equals>
-    			<property>/controls/flag</property>
-    			<value>2</value>
-    		</equals>
-    		<equals>
-    			<property>/controls/flag</property>
-    			<value>5</value>
-    		</equals>
-    	</or>
+  	<or>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>2</value>
+  	  </equals>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>3</value>
+  	  </equals>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>4</value>
+  	  </equals>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>5</value>
+  	  </equals>
+      </or>
   </condition>
 </animation>
 
@@ -112,28 +96,20 @@
   <type>select</type>
 	 <object-name>red.003</object-name>
   <condition>
-  	<or> 
-  		<equals>
-  			<property>/startsignal</property>
-  			<value>3</value>
-  		</equals> 
-  		<equals>
-  			<property>/startsignal</property>
-  			<value>4</value>
-  		</equals> 
-  		<equals>
-  			<property>/startsignal</property>
-  			<value>5</value>
-  		</equals> 
-  		<equals>
-  			<property>/controls/flag</property>
-  			<value>2</value>
-  		</equals>
-  		<equals>
-  			<property>/controls/flag</property>
-  			<value>5</value>
-  		</equals>
-  	</or>
+  	<or>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>3</value>
+  	  </equals>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>4</value>
+  	  </equals>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>5</value>
+  	  </equals>
+      </or>
   </condition>
 </animation>
 
@@ -141,24 +117,16 @@
   <type>select</type>
 	 <object-name>red.004</object-name>
   <condition>
-    	<or> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>4</value>
-    		</equals> 
-    		<equals>
-    			<property>/startsignal</property>
-    			<value>5</value>
-    		</equals> 
-    		<equals>
-    			<property>/controls/flag</property>
-    			<value>2</value>
-    		</equals>
-    		<equals>
-    			<property>/controls/flag</property>
-    			<value>5</value>
-    		</equals>
-    	</or>
+  	<or>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>4</value>
+  	  </equals>
+  	  <equals>
+         <property>/startsignal</property>
+  	   <value>5</value>
+  	  </equals>
+      </or>
   </condition>
 </animation>
 
@@ -166,41 +134,21 @@
   <type>select</type>
 	 <object-name>red.005</object-name>
   <condition>
-  	<or> 
-  		<equals>
-  			<property>/startsignal</property>
-  			<value>5</value>
-  		</equals> 
-  		<equals>
-  			<property>/controls/flag</property>
-  			<value>2</value>
-  		</equals>
-  		<equals>
-  			<property>/controls/flag</property>
-  			<value>5</value>
-  		</equals>
-  	</or>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>5</value>
+	  </equals>
   </condition>
 </animation>
 
 <animation>
   <type>select</type>
 	 <object-name>yellow</object-name>
-  <condition> 	
-	<or> 
-		<equals>
-			<property>/startsignal</property>
-			<value>6</value>
-		</equals> 
-		<equals>
-			<property>/controls/flag</property>
-			<value>2</value>
-		</equals>
-		<equals>
-			<property>/controls/flag</property>
-			<value>5</value>
-		</equals>
-	</or>
+  <condition>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>6</value>
+	  </equals>
   </condition>
 </animation>
 
@@ -208,24 +156,10 @@
   <type>select</type>
 	 <object-name>green</object-name>
   <condition>
-   	 <and> 
-		 <or>	  
-		  <equals>
-       		  <property>/startsignal</property>
-	   	   		<value>7</value>
-	  	   </equals>
-   	  	   <equals>
-           		<property>/controls/flag</property>
-    	   		<value>1</value>
-    	   </equals>
-	  	 </or>
- 	  <not>
- 	  	  <equals>
- 	          <property>/controls/flag</property>
- 	   	   <value>5</value>
- 	   	  </equals>
- 	  </not>
-     </and>
+	  <equals>
+       <property>/startsignal</property>
+	   <value>7</value>
+	  </equals>
   </condition>
 </animation>
  
