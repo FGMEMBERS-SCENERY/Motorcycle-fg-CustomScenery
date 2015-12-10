@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<groundnet>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="01-Start"
+             lat="S40 14.13484"
+             lon="E175 33.46943"
+             heading="119"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="02-Start"
+             lat="S40 14.13266"
+             lon="E175 33.46952"
+             heading="119"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="03-Start"
+             lat="S40 14.13060"
+             lon="E175 33.46954"
+             heading="119"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="04-Start"
+             lat="S40 14.13155"
+             lon="E175 33.46267"
+             heading="119"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="05-Start"
+             lat="S40 14.12916"
+             lon="E175 33.46268"
+             heading="119"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+</groundnet>
