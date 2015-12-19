@@ -10,6 +10,15 @@ OBJECT_SHARED Models/RaceCourses/marshall.xml 175.56072898 -40.23876887 63.7713 
 OBJECT_SHARED Models/RaceCourses/marshall.xml 175.55523543 -40.23627909 63.7693 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/marshall.xml 175.55795100 -40.23572332 63.7681 0.0 0.0 -0.0
 
+# suzuki flags
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55841221 -40.23571791 61.5992 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55824104 -40.23563681 61.6184 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55856306 -40.23579043 61.7862 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55873831 -40.23587469 61.8387 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55887702 -40.23594137 61.6162 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55903502 -40.23601743 61.5608 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Manfeild/flag.xml 175.55919960 -40.23609654 61.7000 0.0 0.0 -0.0
+
 # zone industrielle and privat buildings
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 175.56395639 -40.23983768 59.7763 0.0 0.0 -0.0
 OBJECT_SHARED Models/Residential/MontserratHse2Yellow.ac 175.55256476 -40.23543930 63.7832 0.0 0.0 -0.0
