@@ -9,3 +9,8 @@ users/Library/Application Support/FlightGear
 
 IMPORTAND:: this is NOT the /Nasal folder
 in the fgdata or data folder
+
+
+since Flightgear 3.7 you must set the Nasal folder as executable like this for example:
+
+--fg-aircraft=/home/yourdirectory/.fgfs/Custom/Scenery/Motorcycle-fg-CustomScenery/Nasal/
