@@ -2,3 +2,48 @@
 OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/roadNew.ac 9.16406623 47.76988305 416.3185 0.0 0.0 -0.0
 
 OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/franziskaner_tor.ac 9.15935645 47.76834453 422.1616 84.0 0.0 -0.0
+
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/franziskanerkirche.ac 9.15986524 47.76809411 419.2977 7.3 0.0 -0.0
+
+# Wiestorstrasse Reihenhaeuser
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/wiestorreihe.ac 9.16000593 47.76869041 420.8083 93.6 0.0 -0.0
+
+# Mauern Franziskaner
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendwhite.xml 9.16054133 47.76809461 419.3161 139.7 -3.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshortwhite.xml 9.16022110 47.76796407 417.8936 72.0 -1.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshortwhite.xml 9.16066442 47.76834848 420.9665 0.0 2.9 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.15948627 47.76827840 421.2792 3.0 3.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml 9.15937820 47.76858440 422.8827 182.6 -3.5 --0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.15949146 47.76845624 422.0356 356.4 3.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml 9.15952472 47.76858576 422.7830 312.4 1.8 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml 9.15983598 47.76865145 422.6038 280.2 -0.6 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml 9.16044140 47.76865933 421.5698 267.9 -2.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.16076659 47.76865089 420.7895 267.6 -1.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml 9.16094285 47.76864027 420.4689 240.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshortwhite.xml 9.16091678 47.76855971 420.5693 356.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshortwhite.xml 9.16101865 47.76855438 420.3868 350.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml 9.16105963 47.76863327 420.3026 307.7 -1.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.16126123 47.76864278 420.1447 269.2 -0.6 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml 9.16165242 47.76862180 420.0052 101.7 0.1 -0.0
+
+# Strohballen Franziskaner-Ecke
+OBJECT_SHARED Models/RaceCourses/UGP/bush2.xml 9.15950387 47.76827552 420.7539 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15947240 47.76827304 420.9581 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15949169 47.76829963 421.2054 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15945384 47.76825016 420.8197 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15940706 47.76821027 420.4313 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15938398 47.76818440 420.2114 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15933487 47.76808420 419.1515 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15934636 47.76811078 419.5230 0.0 96.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15934802 47.76810980 420.1510 0.0 -90.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15943154 47.76822963 420.5954 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15933902 47.76837967 421.6224 87.0 0.0 -90.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15940151 47.76837653 421.8412 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15938440 47.76837690 421.8394 84.0 0.0 -78.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15940116 47.76837506 422.4351 0.0 -66.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/quader.xml 9.15936028 47.76850701 423.4139 88.0 89.9 --1.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/quader.xml 9.15936265 47.76854225 423.7636 93.2 90.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/quader.xml 9.15936500 47.76857687 424.0213 88.0 90.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/quader.xml 9.15937064 47.76861397 424.3244 64.0 90.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/quader.xml 9.15940224 47.76864597 424.4284 32.0 90.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/litter.xml 9.15933477 47.76808377 419.6852 0.0 -87.3 -0.0
