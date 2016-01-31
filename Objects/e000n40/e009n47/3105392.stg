@@ -1,12 +1,108 @@
 # course Ueberlingen Lake of Constance
 OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/roadNew.ac 9.16406623 47.76988305 416.3185 0.0 0.0 -0.0
 
+# Friedhof
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml 9.16276139 47.77090851 426.2380 0.9 0.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.16276260 47.77061694 426.1632 358.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml 9.16276734 47.77048964 426.1628 28.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml 9.16304632 47.77035872 426.1620 56.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.16342554 47.77020062 426.0784 61.1 0.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml 9.16362253 47.77012750 426.0211 61.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml 9.16391188 47.77006789 425.8552 80.0 0.8 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml 9.16410873 47.77005019 425.6936 124.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml 9.16419853 47.77007117 425.7430 84.0 -0.8 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml 9.16447210 47.77022448 425.8980 140.0 -0.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16305212 47.77047633 425.4739 234.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16333677 47.77033948 425.2608 235.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16350959 47.77026213 425.3052 237.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16384995 47.77012919 425.3050 244.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16292299 47.77086383 425.7658 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16305111 47.77086405 425.7105 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16316620 47.77086365 425.6712 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16328527 47.77086463 425.5506 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16292724 47.77073282 425.7125 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16303865 47.77073219 425.6641 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16314566 47.77073011 425.6170 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16328402 47.77073006 425.5288 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16377912 47.77064848 425.3056 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16362272 47.77061722 425.3056 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16346261 47.77057789 425.3056 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16361613 47.77091438 425.3061 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16360456 47.77085368 425.3060 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16359802 47.77079887 425.3059 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16348654 47.77089340 425.3189 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16346950 47.77082321 425.3267 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16346895 47.77076338 425.3170 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16310395 47.77058435 425.5778 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16319105 47.77059380 425.5439 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave2.ac 9.16327000 47.77059261 425.5142 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave2.ac 9.16325460 47.77055090 425.5052 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave2.ac 9.16325255 47.77051081 425.4872 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave4.ac 9.16359414 47.77040381 425.3053 24.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave4.ac 9.16370249 47.77042081 425.3053 24.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16363089 47.77035740 425.3053 24.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave3.ac 9.16375303 47.77037581 425.3052 24.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave2.ac 9.16370004 47.77031531 425.3052 24.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16398730 47.77064652 425.3055 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16406748 47.77064156 425.3055 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16414816 47.77065037 425.3055 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave4.ac 9.16395837 47.77032561 425.3052 196.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave4.ac 9.16398988 47.77024921 425.3051 196.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16391116 47.77026947 425.1952 195.5 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16386950 47.77027322 425.3051 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16402666 47.77087300 425.3059 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16411739 47.77100842 425.3062 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16328400 47.77104196 425.5829 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16338552 47.77081321 425.4238 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16297381 47.77109595 425.8351 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16336863 47.77048278 425.3866 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16360443 47.77027747 425.3052 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16428577 47.77023342 425.3051 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16440156 47.77031523 425.3052 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16297051 47.77046578 425.5864 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16287268 47.77067238 425.8481 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16362633 47.77018833 424.5861 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16347550 47.77023940 425.3052 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16364911 47.77028877 425.3052 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16315248 47.77039900 425.4841 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16347255 47.77107352 425.3666 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16403258 47.77101108 425.3062 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16337422 47.77067716 425.4136 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16381956 47.77053420 425.3054 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16373502 47.77075301 425.3057 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16289939 47.77106255 425.8542 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16287486 47.77096878 425.3666 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml 9.16274919 47.77122602 426.7502 2.3 1.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16289377 47.77119392 425.9083 4.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16286957 47.77137280 426.7012 6.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16296939 47.77121410 425.8835 7.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16293266 47.77138541 426.5793 9.1 1.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Wanganui/grave1.ac 9.16308683 47.77129591 426.0389 0.0 1.3 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16302046 47.77123316 425.8690 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16297047 47.77144539 426.9889 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.16281849 47.77148922 427.3324 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16293001 47.77129498 426.1590 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16337956 47.77108242 425.4775 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16313594 47.77113679 425.7735 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16373736 47.77145798 426.5847 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.16320182 47.77140320 426.6055 0.0 0.0 -0.0
+
+# Wiestorschule
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/wiestorschule.ac 9.16274985 47.77023964 423.3352 60.6 0.0 -0.0
+
 OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/franziskaner_tor.ac 9.15935645 47.76834453 422.1616 84.0 0.0 -0.0
 
 OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/franziskanerkirche.ac 9.15986524 47.76809411 419.2977 7.3 0.0 -0.0
 
 # Wiestorstrasse Reihenhaeuser
 OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/wiestorreihe.ac 9.16000593 47.76869041 420.8083 93.6 0.0 -0.0
+
+# Wiestorstrasse und Kreisel Baeume
+OBJECT_SHARED Models/Trees/beech33.xml 9.16171268 47.76882633 420.2188 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/buk1.xml 9.16402733 47.76988097 425.3050 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/buk1.xml 9.16404425 47.76985134 425.3050 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/buk1.xml 9.16407951 47.76987249 425.3050 0.0 0.0 -0.0
+
 
 # Mauern Franziskaner
 OBJECT_SHARED Models/RaceCourses/Southern100/wallbendwhite.xml 9.16054133 47.76809461 419.3161 139.7 -3.3 -0.0
