@@ -1,6 +1,28 @@
 # e050n20/e051n25/3792089.stg
 OBJECT_SHARED Models/RaceCourses/Qatar/course.ac 51.45058012 25.48899097 13.6292 119.0 0.0 -0.0
 
+OBJECT_SHARED Models/RaceCourses/Qatar/box4.ac 51.45130384 25.48713263 14.0304 118.7 0.0 -0.0
+
+#promotion
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_commercialBank.ac 51.45377206 25.48303896 17.1190 332.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_commercialBank.ac 51.45427195 25.48352347 17.1345 332.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_commercialBank.ac 51.45612248 25.48623140 16.4799 40.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_michelin.ac 51.45920474 25.48592668 17.4841 284.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_michelin.ac 51.46008427 25.48643032 17.1717 312.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_monster.ac 51.46098842 25.48873634 17.2143 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_monster.ac 51.46078120 25.48966424 17.5617 27.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_liqui_moly.ac 51.45653807 25.49535193 17.3821 292.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_liqui_moly.ac 51.45548627 25.49507174 17.2662 292.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_liqui_moly.ac 51.45738683 25.49509444 17.5458 40.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_sidi.ac 51.45306012 25.48987219 16.5815 60.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_sidi.ac 51.45397740 25.48942066 16.8753 64.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_dhl.ac 51.45303131 25.49745504 17.2760 304.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_dhl.ac 51.45385368 25.49797893 18.3831 120.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_motul.ac 51.45027842 25.49518222 17.2252 324.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_motul.ac 51.45109011 25.49605206 17.1799 317.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_commercialBank.ac 51.44642018 25.49410581 16.9309 312.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/promo_commercialBank.ac 51.44733022 25.49454552 17.1679 288.0 0.0 -0.0
+
 # lightcones for lower framerate
 OBJECT_SHARED Models/RaceCourses/Qatar/lightcone.xml 51.45065113 25.48746223 12.0182 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/Qatar/lightcone.xml 51.45043773 25.48782053 12.0173 0.0 0.0 -0.0
@@ -723,3 +745,12 @@ OBJECT_SHARED Models/RaceCourses/Qatar/lightcone2.xml 51.45386219 25.48425199 13
 OBJECT_SHARED Models/RaceCourses/Qatar/lightcone2.xml 51.45399211 25.48404383 13.2988 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/Qatar/lightcone2.xml 51.45407512 25.48422237 13.2977 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/Qatar/lightcone2.xml 51.45422782 25.48445475 13.2962 0.0 0.0 -0.0
+
+# maximum framerate lightcones
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45139202 25.48681073 15.1472 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45125615 25.48703026 13.0854 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45106853 25.48732242 14.5145 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45091260 25.48759981 15.2849 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45074636 25.48783842 17.8036 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45050336 25.48817346 12.4294 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Qatar/lightcone3.xml 51.45033244 25.48854914 16.4708 0.0 0.0 -0.0
