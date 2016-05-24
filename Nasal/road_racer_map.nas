@@ -487,6 +487,58 @@ var open = func(){
 		track.setData(data);
 	}
 #############################
+	elsif(nearestAirport == "NZPM"){
+		
+		track = RaceTrack.new("New Zealand - Manfeild",-40.2368525,175.5577914);
+		track.setRotation(30);
+		track.setRange(0.3);
+		
+		track.appendSector(RaceTrackSector.new("Start/Finish",-40.23589635,175.55854994,20,40,-10));
+		track.appendSector(RaceTrackSector.new("Turn 1",-40.23799392,175.56190470,15.0,-35,3));
+		track.appendSector(RaceTrackSector.new("Turn 2",-40.23586105,175.55557602,15.0,35,8));
+		track.appendSector(RaceTrackSector.new("Higgins",-40.23904496,175.56072339,15.0,-25,15));
+		track.appendSector(RaceTrackSector.new("Turn 4",-40.23500935,175.55514906,15.0,-25,-10));
+
+
+		data = [];
+		append(data,[175.55854994,-40.23589635,64.1409]);
+		append(data,[175.56172487,-40.23744520,64.1473]);
+		append(data,[175.56200453,-40.23778510,64.1486]);
+		append(data,[175.56190470,-40.23799392,64.1482]);
+		append(data,[175.56149383,-40.23810041,64.1464]);
+		append(data,[175.56054750,-40.23804744,64.1426]);
+		append(data,[175.55956141,-40.23782961,64.1397]);
+		append(data,[175.55891799,-40.23730654,64.1385]);
+		append(data,[175.55873164,-40.23686820,64.1388]);
+		append(data,[175.55866416,-40.23653877,64.1393]);
+		append(data,[175.55848436,-40.23628428,64.1397]);
+		append(data,[175.55816505,-40.23619107,64.1397]);
+		append(data,[175.55749815,-40.23629410,64.1392]);
+		append(data,[175.55714969,-40.23629788,64.1393]);
+		append(data,[175.55686419,-40.23622319,64.1396]);
+		append(data,[175.55626338,-40.23589146,64.1413]);
+		append(data,[175.55585420,-40.23576427,64.1425]);
+		append(data,[175.55557602,-40.23576007,64.1431]);
+		append(data,[175.55541755,-40.23586105,64.1431]);
+		append(data,[175.55544021,-40.23607055,64.1423]);
+		append(data,[175.55620003,-40.23671222,64.1393]);
+		append(data,[175.56043140,-40.23878223,64.1433]);
+		append(data,[175.56072339,-40.23904496,64.1449]);
+		append(data,[175.56072574,-40.23933827,64.1458]);
+		append(data,[175.56040761,-40.23949917,64.1453]);
+		append(data,[175.55952619,-40.23947515,64.1428]);
+		append(data,[175.55876913,-40.23917415,64.1404]);
+		append(data,[175.55815410,-40.23881456,64.1389]);
+		append(data,[175.55498552,-40.23622648,64.1431]);
+		append(data,[175.55478627,-40.23580713,64.1450]);
+		append(data,[175.55479289,-40.23536023,64.1468]);
+		append(data,[175.55514906,-40.23500935,64.1474]);
+		append(data,[175.55562625,-40.23498026,64.1464]);
+		append(data,[175.55738997,-40.23534693,64.1426]);
+
+		track.setData(data);
+	}
+#############################
 	elsif(nearestAirport == "NZME"){
 		
 		track = RaceTrack.new("New Zealand - Hampton Downs",-37.354743,175.076479);
@@ -1210,6 +1262,374 @@ var open = func(){
 		append(data,[18.48790454,49.76336199,284]);
 		append(data,[18.48797790,49.76291497,283]);
 		append(data,[18.48792678,49.76247605,283]);
+
+		track.setData(data);
+	}
+###############################
+	elsif(nearestAirport == "EDPA"){
+		
+		track = RaceTrack.new("Germany - Bopfingen",48.85114679,10.33251126);
+		track.setRange(0.1);
+		
+		track.appendSector(RaceTrackSector.new("Start/Ziel",48.85156725,10.33250669,611,40,-10));
+		track.appendSector(RaceTrackSector.new("Steil-",48.85064665,10.33082405,611,-4,-8));
+		track.appendSector(RaceTrackSector.new("kurve",48.85050183,10.33075016,611,20,0));
+		track.appendSector(RaceTrackSector.new("Clubhaus",48.85094387,10.33418082,611,-20,10));
+		
+		data = [];
+
+		append(data,[10.33376005,48.85141263,612]);
+		append(data,[10.33372015,48.85132065,612]);
+		append(data,[10.33332730,48.85130911,612]);
+		append(data,[10.33310362,48.85117370,612]);
+		append(data,[10.33288717,48.85118525,612]);
+		append(data,[10.33231208,48.85143688,612]);
+		append(data,[10.33211611,48.85142604,612]);
+		append(data,[10.33201972,48.85130084,612]);
+		append(data,[10.33198273,48.85113670,612]);
+		append(data,[10.33161613,48.85102679,612]);
+		append(data,[10.33160524,48.85087533,612]);
+		append(data,[10.33191994,48.85086678,612]);
+		append(data,[10.33226407,48.85097928,612]);
+		append(data,[10.33280973,48.85100812,612]);
+		append(data,[10.33297479,48.85090057,612]);
+		append(data,[10.33285806,48.85079435,612]);
+		append(data,[10.33233010,48.85080181,612]);
+		append(data,[10.33108765,48.85044955,612]);
+		append(data,[10.33079088,48.85046080,612]);
+		append(data,[10.33072187,48.85057929,612]);
+		append(data,[10.33103476,48.85068155,612]);
+		append(data,[10.33132477,48.85076311,612]);
+		append(data,[10.33134470,48.85103220,612]);
+		append(data,[10.33171454,48.85121040,612]);
+		append(data,[10.33183452,48.85130181,612]);
+		append(data,[10.33184477,48.85143824,612]);
+		append(data,[10.33147646,48.85152578,612]);
+		append(data,[10.33112762,48.85148323,612]);
+		append(data,[10.33104322,48.85126252,612]);
+		append(data,[10.33112116,48.85089396,612]);
+		append(data,[10.33097299,48.85081776,612]);
+		append(data,[10.33079543,48.85090628,612]);
+		append(data,[10.33078643,48.85128690,612]);
+		append(data,[10.33091869,48.85154993,612]);
+		append(data,[10.33115558,48.85163430,612]);
+		append(data,[10.33373981,48.85154127,612]);
+
+		track.setData(data);
+	}
+###############################
+	elsif(nearestAirport == "OTBK"){
+		
+		track = RaceTrack.new("Qatar - Losail Circuit",25.48972282,51.45220188);
+		track.setRange(0.9);
+		
+		track.appendSector(RaceTrackSector.new("Start/Ziel",25.48879949,51.44983159,13,-40,10));
+		track.appendSector(RaceTrackSector.new("1",25.49319662,51.44773118,13,-6,-3));
+		track.appendSector(RaceTrackSector.new("2",25.49243121,51.45045756,13,2,13));
+		track.appendSector(RaceTrackSector.new("3",25.49440854,51.45077765,13,8,8));
+		track.appendSector(RaceTrackSector.new("4",25.49713892,51.45351841,13,0,15));
+		track.appendSector(RaceTrackSector.new("5",25.49602742,51.45476145,13,8,5));
+		track.appendSector(RaceTrackSector.new("6",25.49395187,51.45314463,13,0,15));
+		track.appendSector(RaceTrackSector.new("7",25.49457983,51.45688784,13,7,0));
+		track.appendSector(RaceTrackSector.new("8",25.49336423,51.45623340,13,10,5));
+		track.appendSector(RaceTrackSector.new("9",25.49191121,51.45560090,13,8,10));
+		track.appendSector(RaceTrackSector.new("10",25.49121032,51.45361896,13,-10,-2));
+		track.appendSector(RaceTrackSector.new("11",25.48968884,51.45603571,13,0,13));
+		track.appendSector(RaceTrackSector.new("12",25.48988650,51.45890798,13,10,-5));
+		track.appendSector(RaceTrackSector.new("13",25.48841860,51.46003737,13,12,4));
+		track.appendSector(RaceTrackSector.new("14",25.48681120,51.45897448,13,4,15));
+		track.appendSector(RaceTrackSector.new("15",25.48714949,51.45573293,13,7,15));
+		track.appendSector(RaceTrackSector.new("16",25.48368375,51.45335060,13,4,15));
+		
+		data = [];
+
+		append(data,[51.45287703,25.48383484,13]);
+		append(data,[51.44758841,25.49247601,13]);
+		append(data,[51.44756770,25.49292316,13]);
+		append(data,[51.44783911,25.49323668,13]);
+		append(data,[51.44833211,25.49328719,13]);
+		append(data,[51.44991101,25.49241155,13]);
+		append(data,[51.45037768,25.49239238,13]);
+		append(data,[51.45067878,25.49261807,13]);
+		append(data,[51.45076925,25.49292254,13]);
+		append(data,[51.45074617,25.49418220,13]);
+		append(data,[51.45083808,25.49451734,13]);
+		append(data,[51.45105878,25.49478434,13]);
+		append(data,[51.45318391,25.49699780,13]);
+		append(data,[51.45344339,25.49711582,13]);
+		append(data,[51.45375133,25.49708154,13]);
+		append(data,[51.45462372,25.49636584,13]);
+		append(data,[51.45472817,25.49595768,13]);
+		append(data,[51.45458956,25.49569039,13]);
+		append(data,[51.45319691,25.49426959,13]);
+		append(data,[51.45312200,25.49394858,13]);
+		append(data,[51.45325158,25.49381683,13]);
+		append(data,[51.45357617,25.49384531,13]);
+		append(data,[51.45618615,25.49479635,13]);
+		append(data,[51.45663850,25.49479247,13]);
+		append(data,[51.45683044,25.49467768,13]);
+		append(data,[51.45698565,25.49436014,13]);
+		append(data,[51.45694629,25.49403055,13]);
+		append(data,[51.45659268,25.49368480,13]);
+		append(data,[51.45618478,25.49327162,13]);
+		append(data,[51.45591914,25.49276255,13]);
+		append(data,[51.45574892,25.49217803,13]);
+		append(data,[51.45556507,25.49188463,13]);
+		append(data,[51.45527534,25.49174315,13]);
+		append(data,[51.45390135,25.49142744,13]);
+		append(data,[51.45358211,25.49118903,13]);
+		append(data,[51.45358464,25.49092999,13]);
+		append(data,[51.45402049,25.49044097,13]);
+		append(data,[51.45471421,25.49001013,13]);
+		append(data,[51.45534280,25.48977487,13]);
+		append(data,[51.45595303,25.48967326,13]);
+		append(data,[51.45661848,25.48967946,13]);
+		append(data,[51.45864552,25.48990686,13]);
+		append(data,[51.45903550,25.48986160,13]);
+		append(data,[51.45935289,25.48960464,13]);
+		append(data,[51.45995040,25.48866831,13]);
+		append(data,[51.46005097,25.48850003,13]);
+		append(data,[51.45991649,25.48812177,13]);
+		append(data,[51.45912852,25.48697543,13]);
+		append(data,[51.45888918,25.48678908,13]);
+		append(data,[51.45860610,25.48674746,13]);
+		append(data,[51.45622601,25.48720226,13]);
+		append(data,[51.45584015,25.48719018,13]);
+		append(data,[51.45549555,25.48692361,13]);
+		append(data,[51.45380058,25.48396860,13]);
+		append(data,[51.45349386,25.48371068,13]);
+		append(data,[51.45321721,25.48366872,13]);
+		append(data,[51.45287250,25.48383842,13]);
+
+		track.setData(data);
+	}
+###############################
+	elsif(nearestAirport == "SANR"){
+		
+		track = RaceTrack.new("Argentina - Termas de Rio Hondo",-27.50758667,-64.91501067);
+		track.setRange(0.9);
+		
+		track.appendSector(RaceTrackSector.new("Start/Ziel",-27.51129501,-64.91888896,288,-40,15));
+		track.appendSector(RaceTrackSector.new("T1",-27.50959257,-64.92197539,288,-11,-3));
+		track.appendSector(RaceTrackSector.new("T2",-27.51005750,-64.91788684,288,7,13));
+		track.appendSector(RaceTrackSector.new("T3",-27.50850927,-64.91849523,288,-13,-3));
+		track.appendSector(RaceTrackSector.new("T4",-27.50685054,-64.91746422,288,-5,-10));
+		track.appendSector(RaceTrackSector.new("T5",-27.50223168,-64.90911444,288,15,2));
+		track.appendSector(RaceTrackSector.new("T6",-27.50496087,-64.91084527,288,15,5));
+		track.appendSector(RaceTrackSector.new("T7",-27.50882455,-64.90917511,288,12,5));
+		track.appendSector(RaceTrackSector.new("T8",-27.50929931,-64.91035235,288,-10,13));
+		track.appendSector(RaceTrackSector.new("T9",-27.50689610,-64.91260435,288,2,-7));
+		track.appendSector(RaceTrackSector.new("T10",-27.50731193,-64.91393966,288,-5,-7));
+		track.appendSector(RaceTrackSector.new("T11",-27.50826638,-64.91643846,288,16,8));
+		track.appendSector(RaceTrackSector.new("T12",-27.51165821,-64.91517557,288,15,7));
+		track.appendSector(RaceTrackSector.new("T13",-27.51329451,-64.91547132,288,18,5));
+		track.appendSector(RaceTrackSector.new("T14",-27.51226273,-64.91621294,288,-14,13));
+		
+		data = [];
+
+		append(data,[-64.91617955,-27.51228630,288]);
+		append(data,[-64.91888896,-27.51129501,288]);
+		append(data,[-64.92147454,-27.51039099,288]);
+		append(data,[-64.92187486,-27.51007873,288]);
+		append(data,[-64.92197539,-27.50959257,288]);
+		append(data,[-64.92179094,-27.50925631,288]);
+		append(data,[-64.92117483,-27.50909798,288]);
+		append(data,[-64.92041406,-27.50927258,288]);
+		append(data,[-64.91865666,-27.51018082,288]);
+		append(data,[-64.91816933,-27.51027250,288]);
+		append(data,[-64.91790920,-27.51008798,288]);
+		append(data,[-64.91783728,-27.50971620,288]);
+		append(data,[-64.91792387,-27.50946828,288]);
+		append(data,[-64.91847860,-27.50859666,288]);
+		append(data,[-64.91850465,-27.50839063,288]);
+		append(data,[-64.91815819,-27.50768877,288]);
+		append(data,[-64.91772881,-27.50712027,288]);
+		append(data,[-64.91701400,-27.50647948,288]);
+		append(data,[-64.90976583,-27.50217692,288]);
+		append(data,[-64.90941416,-27.50210648,288]);
+		append(data,[-64.90922540,-27.50218569,288]);
+		append(data,[-64.90907588,-27.50233965,288]);
+		append(data,[-64.90904628,-27.50259425,288]);
+		append(data,[-64.90922700,-27.50291266,288]);
+		append(data,[-64.91033297,-27.50386487,288]);
+		append(data,[-64.91073790,-27.50455681,288]);
+		append(data,[-64.91091530,-27.50538433,288]);
+		append(data,[-64.91076510,-27.50624226,288]);
+		append(data,[-64.90919323,-27.50878825,288]);
+		append(data,[-64.90925882,-27.50901732,288]);
+		append(data,[-64.90952047,-27.50921885,288]);
+		append(data,[-64.90992792,-27.50933929,288]);
+		append(data,[-64.91032684,-27.50931821,288]);
+		append(data,[-64.91103373,-27.50898390,288]);
+		append(data,[-64.91249012,-27.50697743,288]);
+		append(data,[-64.91275514,-27.50684375,288]);
+		append(data,[-64.91302239,-27.50689808,288]);
+		append(data,[-64.91392525,-27.50732155,288]);
+		append(data,[-64.91431016,-27.50735068,288]);
+		append(data,[-64.91516158,-27.50736480,288]);
+		append(data,[-64.91584593,-27.50763486,288]);
+		append(data,[-64.91635466,-27.50814904,288]);
+		append(data,[-64.91652097,-27.50886704,288]);
+		append(data,[-64.91635849,-27.50950372,288]);
+		append(data,[-64.91523932,-27.51157112,288]);
+		append(data,[-64.91510344,-27.51221990,288]);
+		append(data,[-64.91512859,-27.51287062,288]);
+		append(data,[-64.91528213,-27.51318873,288]);
+		append(data,[-64.91550629,-27.51328634,288]);
+		append(data,[-64.91581120,-27.51316807,288]);
+		append(data,[-64.91600413,-27.51289430,288]);
+
+		track.setData(data);
+	}
+###############################
+	elsif(nearestAirport == "02XS"){
+		
+		track = RaceTrack.new("Austin, Texas - Circuit of the Americas",30.13540734,-97.63377384);
+		track.setRange(0.9);
+		
+		track.appendSector(RaceTrackSector.new("Start/Finish",30.13207087,-97.64015017,165,-35,15));
+		track.appendSector(RaceTrackSector.new("T1",30.13006670,-97.63683541,165,-10,13));
+		track.appendSector(RaceTrackSector.new("T2",30.13216331,-97.63729393,165,12,6));
+		track.appendSector(RaceTrackSector.new("T3",30.13375554,-97.63503285,165,7,13));
+		track.appendSector(RaceTrackSector.new("T4",30.13450102,-97.63438727,165,10,12));
+		track.appendSector(RaceTrackSector.new("T5",30.13511277,-97.63373078,165,12,7));
+		track.appendSector(RaceTrackSector.new("T6",30.13616262,-97.63285486,165,-5,-5));
+		track.appendSector(RaceTrackSector.new("T7",30.13573370,-97.63122123,165,3,15));
+		track.appendSector(RaceTrackSector.new("T8",30.13664212,-97.62982420,165,0,15));
+		track.appendSector(RaceTrackSector.new("T9",30.13619984,-97.62910291,165,5,-8));
+		track.appendSector(RaceTrackSector.new("T10",30.13654145,-97.62706103,165,5,13));
+		track.appendSector(RaceTrackSector.new("T11",30.13940725,-97.62453005,165,17,5));
+		track.appendSector(RaceTrackSector.new("T12",30.13727476,-97.63658713,165,5,-10));
+		track.appendSector(RaceTrackSector.new("T13",30.13561531,-97.63546765,165,5,-5));
+		track.appendSector(RaceTrackSector.new("T14",30.13565812,-97.63650963,165,14,8));
+		track.appendSector(RaceTrackSector.new("T15",30.13655182,-97.63773828,165,-12,-5));
+		track.appendSector(RaceTrackSector.new("T16",30.13473036,-97.63679913,165,5,5));
+		track.appendSector(RaceTrackSector.new("T17",30.13398351,-97.63711150,165,-14,-3));
+		track.appendSector(RaceTrackSector.new("T18",30.13367564,-97.63872845,165,-18,5));
+		track.appendSector(RaceTrackSector.new("T19",30.13547071,-97.64065212,165,5,-7));
+		track.appendSector(RaceTrackSector.new("T20",30.13436214,-97.64351998,165,-18,5));
+
+		
+		data = [];
+
+		append(data,[-97.64357076,30.13440662,148]);
+		append(data,[-97.63685916,30.13002877,148]);
+		append(data,[-97.63734072,30.13160228,148]);
+		append(data,[-97.63733462,30.13204601,148]);
+		append(data,[-97.63706365,30.13248224,148]);
+		append(data,[-97.63541952,30.13334908,148]);
+		append(data,[-97.63513477,30.13358216,148]);
+		append(data,[-97.63490135,30.13404909,148]);
+		append(data,[-97.63466352,30.13435839,148]);
+		append(data,[-97.63425979,30.13453853,148]);
+		append(data,[-97.63387255,30.13477336,148]);
+		append(data,[-97.63372738,30.13525900,148]);
+		append(data,[-97.63355647,30.13570777,148]);
+		append(data,[-97.63312703,30.13603613,148]);
+		append(data,[-97.63246269,30.13618555,148]);
+		append(data,[-97.63123982,30.13572664,148]);
+		append(data,[-97.63008122,30.13655635,148]);
+		append(data,[-97.62964157,30.13664103,148]);
+		append(data,[-97.62923030,30.13634803,148]);
+		append(data,[-97.62903937,30.13615602,148]);
+		append(data,[-97.62706199,30.13654463,148]);
+		append(data,[-97.62454311,30.13940430,148]);
+		append(data,[-97.62864957,30.13845605,148]);
+		append(data,[-97.63126170,30.13797331,148]);
+		append(data,[-97.63652875,30.13735451,148]);
+		append(data,[-97.63665308,30.13721904,148]);
+		append(data,[-97.63547837,30.13575578,148]);
+		append(data,[-97.63560382,30.13549402,148]);
+		append(data,[-97.63624365,30.13550823,148]);
+		append(data,[-97.63656158,30.13573309,148]);
+		append(data,[-97.63668721,30.13612334,148]);
+		append(data,[-97.63712031,30.13650818,148]);
+		append(data,[-97.63783634,30.13652231,148]);
+		append(data,[-97.63687143,30.13499538,148]);
+		append(data,[-97.63679973,30.13475328,148]);
+		append(data,[-97.63705959,30.13404774,148]);
+		append(data,[-97.63732787,30.13388306,148]);
+		append(data,[-97.63799684,30.13362001,148]);
+		append(data,[-97.63841549,30.13360449,148]);
+		append(data,[-97.63890315,30.13372939,148]);
+		append(data,[-97.63944097,30.13413493,148]);
+		append(data,[-97.64051706,30.13538787,148]);
+		append(data,[-97.64074920,30.13548431,148]);
+		append(data,[-97.64333088,30.13460499,148]);
+
+		track.setData(data);
+	}
+###############################
+	elsif(nearestAirport == "LEJR"){
+		
+		track = RaceTrack.new("Espagna - Circuito de Jerez",36.70815352,-6.031699731);
+		track.setRange(0.7);
+		
+		track.appendSector(RaceTrackSector.new("Start",36.70985854,-6.03260098,45,-18,-5));
+		track.appendSector(RaceTrackSector.new("Expo 92",36.71269249,-6.03384453,45,-30,5));
+		track.appendSector(RaceTrackSector.new("Michelin",36.71269425,-6.03122354,45,35,5));
+		track.appendSector(RaceTrackSector.new("T3",36.71183506,-6.03202660,45,12,8));
+		track.appendSector(RaceTrackSector.new("T4",36.70990774,-6.03183570,45,10,-2));
+		track.appendSector(RaceTrackSector.new("Sito Pons",36.70838780,-6.02715123,45,38,2));
+		track.appendSector(RaceTrackSector.new("Dry Sac",36.70411156,-6.03329890,45,0,14));
+		track.appendSector(RaceTrackSector.new("Martinez",36.70632114,-6.03243023,45,34,9));
+		track.appendSector(RaceTrackSector.new("Aspar",36.70832061,-6.03488595,45,7,26));
+		track.appendSector(RaceTrackSector.new("Nieto",36.70602184,-6.03662233,45,6,13));
+		track.appendSector(RaceTrackSector.new("Peluqui",36.70662647,-6.03795038,45,-31,3));
+		track.appendSector(RaceTrackSector.new("Criville",36.70914001,-6.03632673,45,-40,5));
+		track.appendSector(RaceTrackSector.new("Ferrari",36.70909264,-6.03410278,45,-25,-9));
+		track.appendSector(RaceTrackSector.new("Lorenzo",36.70694690,-6.03145037,45,32,2));
+
+		
+		data = [];
+
+		append(data,[-6.03126796,36.70723282,42]);
+		append(data,[-6.03393129,36.71245217,42]);
+		append(data,[-6.03385862,36.71268920,42]);
+		append(data,[-6.03366023,36.71280279,42]);
+		append(data,[-6.03147632,36.71283716,42]);
+		append(data,[-6.03126001,36.71272181,42]);
+		append(data,[-6.03129460,36.71237079,42]);
+		append(data,[-6.03179950,36.71204241,42]);
+		append(data,[-6.03204936,36.71176638,42]);
+		append(data,[-6.03214073,36.71141217,42]);
+		append(data,[-6.03204605,36.71037008,42]);
+		append(data,[-6.03192006,36.71002151,42]);
+		append(data,[-6.03162926,36.70969000,42]);
+		append(data,[-6.03114583,36.70948150,42]);
+		append(data,[-6.02782579,36.70909035,42]);
+		append(data,[-6.02752036,36.70894325,42]);
+		append(data,[-6.02722770,36.70863885,42]);
+		append(data,[-6.02710719,36.70825453,42]);
+		append(data,[-6.02734070,36.70771449,42]);
+		append(data,[-6.03284130,36.70411393,42]);
+		append(data,[-6.03309255,36.70402216,42]);
+		append(data,[-6.03332372,36.70407417,42]);
+		append(data,[-6.03346387,36.70432066,42]);
+		append(data,[-6.03344294,36.70441413,42]);
+		append(data,[-6.03249004,36.70595536,42]);
+		append(data,[-6.03241059,36.70624893,42]);
+		append(data,[-6.03252707,36.70668788,42]);
+		append(data,[-6.03392935,36.70817920,42]);
+		append(data,[-6.03458583,36.70839277,42]);
+		append(data,[-6.03510299,36.70827212,42]);
+		append(data,[-6.03570027,36.70778118,42]);
+		append(data,[-6.03635163,36.70624351,42]);
+		append(data,[-6.03653939,36.70603627,42]);
+		append(data,[-6.03688341,36.70596276,42]);
+		append(data,[-6.03716042,36.70606968,42]);
+		append(data,[-6.03780272,36.70646592,42]);
+		append(data,[-6.03797887,36.70664495,42]);
+		append(data,[-6.03795143,36.70688841,42]);
+		append(data,[-6.03673392,36.70880755,42]);
+		append(data,[-6.03650823,36.70905383,42]);
+		append(data,[-6.03604163,36.70925626,42]);
+		append(data,[-6.03560290,36.70927036,42]);
+		append(data,[-6.03427277,36.70918028,42]);
+		append(data,[-6.03394198,36.70901477,42]);
+		append(data,[-6.03187193,36.70696796,42]);
+		append(data,[-6.03165504,36.70689132,42]);
+		append(data,[-6.03131197,36.70702536,42]);
 
 		track.setData(data);
 	}

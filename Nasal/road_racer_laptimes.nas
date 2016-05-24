@@ -3,6 +3,7 @@ var flagll = props.globals.initNode("/controls/flag-last-lap",0,"INT");
 var flagvic = props.globals.initNode("/controls/flag-marshall-finish-line",0,"INT");
 var smp = props.globals.initNode("/road-racer/show-mp-times",0,"BOOL");
 var fr = props.globals.initNode("/controls/flag-rotation",0,"DOUBLE");
+var thislapis = 0;
 
 props.globals.initNode("/sim/menubar/default/menu[14]");
 props.globals.initNode("/sim/menubar/default/menu[14]/enabled",1,"BOOL");
@@ -91,9 +92,12 @@ var show_mp_times = func{
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Suzuki-GSX-R/Models/Suzuki-GSX-R1000.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Kawa-ZX10R/Models/Kawasaki-ZX10R.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZF-R1.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZF-M1.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZR-M1.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-RC213V/Models/Honda-RC213V.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-RC213V/Models/Honda-RC213V-S.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-CBR/Models/Honda-CBR1000RR.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-NSF/Models/Honda-NSF100.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Ducati/Models/Panigale-R.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Ducati/Models/Desmo-GP16.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/LCR/Models/LCR-F2.xml")
 			and mpOther[v].getNode("id").getValue() >= 0) {
 
@@ -148,7 +152,8 @@ var show_mp_times = func{
 	foreach (var i; bestresult){ 
 		var race_win = screen.window.new( -6, wintoppos, 1, 1.1 );
 		race_win.fg = [1,1,1,1]; # color first three rgb
-		race_win.write(show_helper(roadracer_list[i].rt)~" #"~roadracer_list[i].ln);
+		thislapis = (roadracer_list[i].ln <= 1)? 0 : roadracer_list[i].ln - 1;
+		race_win.write(show_helper(roadracer_list[i].rt)~" #"~thislapis);
 		race_win = screen.window.new( -130, wintoppos, 1, 1.1 );
 		if(roadracer_list[i].cs == getprop("/sim/multiplay/callsign")){
 			race_win.fg = [1,1,0,1]; # color last three rgb
