@@ -1634,6 +1634,85 @@ var open = func(){
 		track.setData(data);
 	}
 ###############################
+	elsif((nearestAirport == "LKCM")){
+		
+		track = RaceTrack.new("Czech - Automotodrom Brno",49.20534932,16.45284913);
+		track.setRange(0.8);
+		
+		track.appendSector(RaceTrackSector.new("Start/Cil",49.20279939,16.44534981,450,-40,10));
+		track.appendSector(RaceTrackSector.new("T1",49.20540592,16.43919046,288,-14,5));
+		track.appendSector(RaceTrackSector.new("T2",49.20577427,16.44234620,292,0,-13));
+		track.appendSector(RaceTrackSector.new("T3",49.20624123,16.45073562,337,-15,-4));
+		track.appendSector(RaceTrackSector.new("T4",49.20793728,16.45012332,339,-10,-10));
+		track.appendSector(RaceTrackSector.new("T5",49.20909908,16.45781564,317,12,0));
+		track.appendSector(RaceTrackSector.new("T6",49.20748514,16.45747499,317,16,0));
+		track.appendSector(RaceTrackSector.new("T7",49.20710825,16.45524075,317,-10,-4));
+		track.appendSector(RaceTrackSector.new("T8",49.20559780,16.45846799,317,4,15));
+		track.appendSector(RaceTrackSector.new("T9",49.20663674,16.45966917,317,18,0));
+		track.appendSector(RaceTrackSector.new("T10",49.20185404,16.46425459,317,20,10));
+		track.appendSector(RaceTrackSector.new("T11",49.20279808,16.45968302,317,0,-9));
+		track.appendSector(RaceTrackSector.new("T12",49.20182068,16.45861682,317,0,15));
+		track.appendSector(RaceTrackSector.new("T13",49.20332101,16.45054183,317,0,-9));
+		track.appendSector(RaceTrackSector.new("T14",49.20196509,16.44942609,317,0,15));
+		
+		data = [];
+		append(data,[16.45006530,49.20243558,452]);
+		append(data,[16.44956135,49.20202376,453]);
+		append(data,[16.44891336,49.20192196,453]);
+		append(data,[16.44812407,49.20201292,453]);
+		append(data,[16.43978924,49.20444142,450]);
+		append(data,[16.43938430,49.20469167,450]);
+		append(data,[16.43914151,49.20531257,449]);
+		append(data,[16.43958893,49.20591902,448]);
+		append(data,[16.44005588,49.20611584,449]);
+		append(data,[16.44122660,49.20605795,450]);
+		append(data,[16.44220457,49.20581047,451]);
+		append(data,[16.44284743,49.20577306,451]);
+		append(data,[16.45006614,49.20596481,463]);
+		append(data,[16.45061091,49.20611641,463]);
+		append(data,[16.45085453,49.20647598,463]);
+		append(data,[16.45026334,49.20746011,462]);
+		append(data,[16.45013092,49.20790192,462]);
+		append(data,[16.45036114,49.20822863,462]);
+		append(data,[16.45088028,49.20836006,461]);
+		append(data,[16.45717725,49.20925227,440]);
+		append(data,[16.45759012,49.20917539,440]);
+		append(data,[16.45793950,49.20890293,439]);
+		append(data,[16.45798477,49.20860949,439]);
+		append(data,[16.45781602,49.20789859,436]);
+		append(data,[16.45760136,49.20756400,435]);
+		append(data,[16.45718687,49.20741907,434]);
+		append(data,[16.45587877,49.20742301,432]);
+		append(data,[16.45539402,49.20725616,432]);
+		append(data,[16.45519605,49.20702175,431]);
+		append(data,[16.45519737,49.20671238,431]);
+		append(data,[16.45558604,49.20639911,430]);
+		append(data,[16.45779196,49.20560950,425]);
+		append(data,[16.45825022,49.20553141,424]);
+		append(data,[16.45864200,49.20565160,424]);
+		append(data,[16.45883761,49.20592000,424]);
+		append(data,[16.45905683,49.20639870,423]);
+		append(data,[16.45947906,49.20661170,423]);
+		append(data,[16.46009162,49.20659118,422]);
+		append(data,[16.46053882,49.20633648,420]);
+		append(data,[16.46430749,49.20257549,395]);
+		append(data,[16.46448229,49.20218707,394]);
+		append(data,[16.46423433,49.20177666,394]);
+		append(data,[16.46374277,49.20161879,394]);
+		append(data,[16.46319002,49.20163037,395]);
+		append(data,[16.46027797,49.20274450,398]);
+		append(data,[16.45971657,49.20283446,399]);
+		append(data,[16.45934811,49.20266383,400]);
+		append(data,[16.45901514,49.20206945,404]);
+		append(data,[16.45873859,49.20185773,406]);
+		append(data,[16.45804008,49.20184373,408]);
+		append(data,[16.45134993,49.20342789,447]);
+		append(data,[16.45071388,49.20342399,448]);
+		append(data,[16.45036678,49.20315223,449]);
+
+		track.setData(data);
+	}
+###############################
 	else{
 		track = nil;
 	}
